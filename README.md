@@ -12,4 +12,4 @@ Python, NumPy, SciPy, Matplotlib, and Jupyter Notebook.
 
 ### Author
 Bahome Seraphin  
-Elmhurst University — Physics & Computer Science
+Elmhurst University — Computer Science, Physics & maths
